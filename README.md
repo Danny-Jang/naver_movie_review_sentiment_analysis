@@ -1,6 +1,6 @@
 ## naver_movie_review_sentiment_analysis
 
-작성 라이브러리는 Pytorch,
+작성 는 Pytorch,
 
  tokenizer으로 형태소 분석기 Mecab,
  
